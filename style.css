@@ -8,7 +8,6 @@
 body{
   height: 100vh;
   background: linear-gradient( 135deg, #00bcd4, #2196f3 );
-  background-image: url('https://source.unsplash.com/1600x900/?spain');
   background-size: cover;
 }
 .container{
